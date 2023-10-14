@@ -11,6 +11,7 @@
   Customers can reserve tables in advance, providing a more personalized dining experience.
 * Admin Control:
   Admins have control over various aspects, including staff management, expenses, orders, and table reservations.
+
 **Technologies Used:**
 * Programming Languages:
   PHP, HTML, CSS
